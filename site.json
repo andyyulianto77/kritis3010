@@ -25,7 +25,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1761798858,
+      "updated": 1761799041,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -216,13 +216,13 @@
       "slug": "page-4",
       "order": 5,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Pilih Alternatif Terbaik ",
+      "description": "\"Setelah menimbang pro-kontra sumber, aku putuskan: Berita viral itu&#160;Hoaks\n\n\n\n",
       "metadata": {
         "created": 1761798931,
-        "updated": 1761798931,
-        "images": [],
-        "videos": [],
+        "updated": 1761799041,
+        "images": {},
+        "videos": {},
         "files": [
           {
             "path": "/home/project/files/image_5.png",
@@ -232,7 +232,11 @@
             "name": "image_5.png",
             "size": 434005
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
