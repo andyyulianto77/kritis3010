@@ -78,7 +78,17 @@
         "readtime": 1,
         "videos": {},
         "images": {},
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "/home/project/files/image.png",
+            "fullUrl": "//home/project/files/image.png",
+            "url": "files/image.png",
+            "type": "image/png",
+            "name": "image.png",
+            "size": 304646
+          }
+        ]
       }
     },
     {
