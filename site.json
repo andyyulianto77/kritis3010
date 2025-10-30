@@ -231,6 +231,14 @@
             "type": "image/png",
             "name": "image_5.png",
             "size": 434005
+          },
+          {
+            "path": "/home/project/files/image_6.png",
+            "fullUrl": "//home/project/files/image_6.png",
+            "url": "files/image_6.png",
+            "type": "image/png",
+            "name": "image_6.png",
+            "size": 659294
           }
         ],
         "published": true,
