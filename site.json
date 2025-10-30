@@ -25,7 +25,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1761799371,
+      "updated": 1761799473,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -71,7 +71,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nThis is a boilerplate so that you can add and make new things from the npx @haxtheweb/haxcms-nodejscommand\nWhat can I do?\nWe've ",
       "metadata": {
         "created": 1689962391,
-        "updated": 1761796903,
+        "updated": 1761799473,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -110,7 +110,7 @@
       "description": "🔍 Sinta membuka tiga tab berbeda di peramban: (1) Sumber viral, (2) Situs berita resmi, (3) Akun media sosial Kemendikbud. \n\n\n\n\n",
       "metadata": {
         "created": 1761796295,
-        "updated": 1761797378,
+        "updated": 1761799473,
         "images": {},
         "videos": {},
         "published": true,
@@ -126,7 +126,8 @@
             "name": "image_2.png",
             "size": 266661
           }
-        ]
+        ],
+        "status": ""
       }
     },
     {
@@ -140,7 +141,7 @@
       "description": "📊 Sinta membandingkan pesan viral dengan pernyataan resmi. Ia mengecek tanggal dan penulis sumber.\n\n\"Apakah sumber viral ini valid dan dapat dipercaya? Buktinya lemah.\"\n\n",
       "metadata": {
         "created": 1761796909,
-        "updated": 1761797573,
+        "updated": 1761799473,
         "images": {},
         "videos": {},
         "published": true,
@@ -156,7 +157,8 @@
             "name": "image_3.png",
             "size": 469079
           }
-        ]
+        ],
+        "status": ""
       }
     },
     {
@@ -164,19 +166,20 @@
       "indent": 0,
       "location": "pages/item-d4f7d230-9d53-4f32-ae53-022798f46487/index.html",
       "slug": "page-2",
-      "order": 3,
+      "order": 4,
       "parent": null,
       "title": "Identifikasi Alternatif ",
       "description": "\n\n\n\n🤔 Sinta mencoret-coret di buku. Ia menuliskan: Asumsi: Semua berita pemerintah bohong. Lalu ia menggarisbawahi: Fakta: Pernyataan ini didukung bukti otentik.\n",
       "metadata": {
         "created": 1761796912,
-        "updated": 1761797667,
+        "updated": 1761799473,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
@@ -184,13 +187,13 @@
       "indent": 0,
       "location": "pages/item-ec91afe8-3761-4038-aff0-57686a11ee54/index.html",
       "slug": "page-3",
-      "order": 4,
+      "order": 5,
       "parent": null,
       "title": "Evaluasi Alternatif ",
       "description": "\"Hal yang paling signifikan di sini adalah, isu sepenting ini&#160;pasti akan diumumkan melalui kanal resmi dan terverifikasi.\"\n\n\n\n",
       "metadata": {
         "created": 1761798673,
-        "updated": 1761798858,
+        "updated": 1761799473,
         "images": {},
         "videos": {},
         "files": [
@@ -206,7 +209,8 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
@@ -214,13 +218,13 @@
       "indent": 0,
       "location": "pages/item-023ecad4-f611-48dd-857d-9c45cd8c0247/index.html",
       "slug": "page-4",
-      "order": 5,
+      "order": 6,
       "parent": null,
       "title": "Pilih Alternatif Terbaik ",
       "description": "\"Setelah menimbang pro-kontra sumber, aku putuskan: Berita viral itu&#160;Hoaks\n\n\n\n",
       "metadata": {
         "created": 1761798931,
-        "updated": 1761799041,
+        "updated": 1761799473,
         "images": {},
         "videos": {},
         "files": [
@@ -244,7 +248,8 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
@@ -252,13 +257,13 @@
       "indent": 0,
       "location": "pages/item-1420c51c-c2e4-4290-90b7-d52c4ba4be94/index.html",
       "slug": "page-5",
-      "order": 6,
+      "order": 7,
       "parent": null,
       "title": "Implementasi Keputusan ",
       "description": "\"Tolong jangan sebar! Aku sudah cek, ini hoaks. Ini link berita resminya...\"\n\n\nDilakukan oleh&#160;💬 Sinta mengetik pesan di grup, menyertakan link sumber resmi, dan menjelaskan mengapa berita itu p",
       "metadata": {
         "created": 1761799046,
-        "updated": 1761799371,
+        "updated": 1761799473,
         "images": {},
         "videos": {},
         "files": [
@@ -282,7 +287,8 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
@@ -290,19 +296,20 @@
       "indent": 0,
       "location": "pages/item-8de8e2ff-2de5-4ab8-aea1-f01d4b247b2c/index.html",
       "slug": "page-6",
-      "order": 7,
+      "order": 8,
       "parent": null,
       "title": "Evaluasi Keputusan ",
       "description": "\"Apakah prosesku sudah adil dan efektif? Ya. Lain kali aku harus lebih cepat mencari sumber.\"\n\n\n\n&#160;&#160;\nProses berhasil! Kritis hari ini\n\n\n",
       "metadata": {
         "created": 1761799196,
-        "updated": 1761799356,
+        "updated": 1761799473,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
@@ -316,9 +323,12 @@
       "description": "",
       "metadata": {
         "created": 1761799451,
-        "updated": 1761799451,
+        "updated": 1761799473,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     }
   ]
