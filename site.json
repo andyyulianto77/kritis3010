@@ -25,7 +25,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1761797667,
+      "updated": 1761798858,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -186,13 +186,13 @@
       "slug": "page-3",
       "order": 4,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Evaluasi Alternatif ",
+      "description": "\"Hal yang paling signifikan di sini adalah, isu sepenting ini&#160;pasti akan diumumkan melalui kanal resmi dan terverifikasi.\"\n\n\n\n",
       "metadata": {
         "created": 1761798673,
-        "updated": 1761798673,
-        "images": [],
-        "videos": [],
+        "updated": 1761798858,
+        "images": {},
+        "videos": {},
         "files": [
           {
             "path": "/home/project/files/image_4.png",
@@ -202,7 +202,11 @@
             "name": "image_4.png",
             "size": 473498
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
