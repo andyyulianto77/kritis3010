@@ -25,7 +25,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1761797573,
+      "updated": 1761797667,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -166,13 +166,17 @@
       "slug": "page-2",
       "order": 3,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Identifikasi Alternatif ",
+      "description": "\n\n\n\n🤔 Sinta mencoret-coret di buku. Ia menuliskan: Asumsi: Semua berita pemerintah bohong. Lalu ia menggarisbawahi: Fakta: Pernyataan ini didukung bukti otentik.\n",
       "metadata": {
         "created": 1761796912,
-        "updated": 1761796912,
-        "images": [],
-        "videos": []
+        "updated": 1761797667,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
