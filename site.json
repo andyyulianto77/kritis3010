@@ -276,6 +276,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-8de8e2ff-2de5-4ab8-aea1-f01d4b247b2c",
+      "indent": 0,
+      "location": "pages/item-8de8e2ff-2de5-4ab8-aea1-f01d4b247b2c/index.html",
+      "slug": "page-6",
+      "order": 7,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1761799196,
+        "updated": 1761799196,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
