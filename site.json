@@ -87,6 +87,14 @@
             "type": "image/png",
             "name": "image.png",
             "size": 304646
+          },
+          {
+            "path": "/home/project/files/image_1.png",
+            "fullUrl": "//home/project/files/image_1.png",
+            "url": "files/image_1.png",
+            "type": "image/png",
+            "name": "image_1.png",
+            "size": 318279
           }
         ]
       }
