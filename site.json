@@ -146,7 +146,17 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/home/project/files/image_3.png",
+            "fullUrl": "//home/project/files/image_3.png",
+            "url": "files/image_3.png",
+            "type": "image/png",
+            "name": "image_3.png",
+            "size": 469079
+          }
+        ]
       }
     },
     {
