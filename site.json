@@ -25,7 +25,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1761799710,
+      "updated": 1761799736,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -330,10 +330,10 @@
       "order": 3,
       "parent": null,
       "title": "Tetapkan Bobot Kriteria ",
-      "description": "\"Apakah sumber viral ini valid dan dapat dipercaya? Buktinya lemah.\"\n\n\n",
+      "description": "\"Apakah sumber viral ini valid dan dapat dipercaya? Buktinya lemah.\"\n\n\nSinta membandingkan pesan viral dengan pernyataan resmi. Ia mengecek tanggal dan penulis sumber.\n",
       "metadata": {
         "created": 1761799451,
-        "updated": 1761799710,
+        "updated": 1761799736,
         "images": {},
         "videos": {},
         "published": true,
