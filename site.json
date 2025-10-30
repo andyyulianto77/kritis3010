@@ -340,7 +340,17 @@
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/home/project/files/image_10.png",
+            "fullUrl": "//home/project/files/image_10.png",
+            "url": "files/image_10.png",
+            "type": "image/png",
+            "name": "image_10.png",
+            "size": 268841
+          }
+        ]
       }
     }
   ]
