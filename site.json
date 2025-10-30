@@ -309,7 +309,17 @@
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "/home/project/files/image_9.png",
+            "fullUrl": "//home/project/files/image_9.png",
+            "url": "files/image_9.png",
+            "type": "image/png",
+            "name": "image_9.png",
+            "size": 347966
+          }
+        ]
       }
     },
     {
