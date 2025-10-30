@@ -25,7 +25,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1761799041,
+      "updated": 1761799191,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -254,13 +254,13 @@
       "slug": "page-5",
       "order": 6,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Implementasi Keputusan ",
+      "description": "\"Apakah prosesku sudah adil dan efektif? Ya. Lain kali aku harus lebih cepat mencari sumber.\"\n\n\nDilakukan oleh&#160;💬 Sinta mengetik pesan di grup, menyertakan link sumber resmi, dan menjelaskan men",
       "metadata": {
         "created": 1761799046,
-        "updated": 1761799046,
-        "images": [],
-        "videos": [],
+        "updated": 1761799191,
+        "images": {},
+        "videos": {},
         "files": [
           {
             "path": "/home/project/files/image_7.png",
@@ -270,7 +270,11 @@
             "name": "image_7.png",
             "size": 463584
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
