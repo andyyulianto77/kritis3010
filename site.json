@@ -260,7 +260,17 @@
         "created": 1761799046,
         "updated": 1761799046,
         "images": [],
-        "videos": []
+        "videos": [],
+        "files": [
+          {
+            "path": "/home/project/files/image_7.png",
+            "fullUrl": "//home/project/files/image_7.png",
+            "url": "files/image_7.png",
+            "type": "image/png",
+            "name": "image_7.png",
+            "size": 463584
+          }
+        ]
       }
     }
   ]
