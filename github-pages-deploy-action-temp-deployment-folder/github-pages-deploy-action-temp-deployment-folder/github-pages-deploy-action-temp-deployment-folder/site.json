@@ -5,12 +5,7 @@
   "description": "own course",
   "license": "by-sa",
   "metadata": {
-    "author": {
-      "image": "",
-      "name": null,
-      "email": null,
-      "socialLink": null
-    },
+    "author": {},
     "site": {
       "name": "haxtheweb",
       "logo": "assets/banner.jpg",
@@ -20,26 +15,23 @@
         "pathauto": false,
         "sw": false,
         "forceUpgrade": true,
-        "gaID": null,
-        "private": false,
-        "canonical": true
+        "gaID": null
       },
       "created": 1698074988,
-      "updated": 1761796345,
+      "updated": 1723216821,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       },
-      "version": "11.0.5",
+      "version": "9.0.5",
       "static": {},
-      "tags": "website, haxtheweb, hax",
-      "domain": null
+      "tags": "website, haxtheweb, hax"
     },
     "theme": {
-      "element": "learn-two-theme",
-      "path": "@haxtheweb/learn-two-theme/learn-two-theme.js",
-      "name": "Learn theme",
-      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+      "element": "clean-one",
+      "path": "@lrnwebcomponents/clean-one/clean-one.js",
+      "name": "Clean course theme",
+      "thumbnail": "build/es6/node_modules/@lrnwebcomponents/app-hax/lib/assets/images/BlueStyle.svg",
       "variables": {
         "image": "",
         "imageAlt": "",
@@ -79,22 +71,6 @@
         "videos": {},
         "images": {},
         "status": ""
-      }
-    },
-    {
-      "id": "item-9d337b0c-a0f4-4ffc-bf71-0b93e73cf37c",
-      "indent": 0,
-      "location": "pages/item-9d337b0c-a0f4-4ffc-bf71-0b93e73cf37c/index.html",
-      "slug": "page",
-      "order": 1,
-      "parent": null,
-      "title": "Page",
-      "description": "",
-      "metadata": {
-        "created": 1761796295,
-        "updated": 1761796295,
-        "images": [],
-        "videos": []
       }
     }
   ]
