@@ -25,7 +25,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1761799191,
+      "updated": 1761799356,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -292,13 +292,17 @@
       "slug": "page-6",
       "order": 7,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Evaluasi Keputusan ",
+      "description": "\"Apakah prosesku sudah adil dan efektif? Ya. Lain kali aku harus lebih cepat mencari sumber.\"\n\n\n\n&#160;&#160;\nProses berhasil! Kritis hari ini\n\n\n",
       "metadata": {
         "created": 1761799196,
-        "updated": 1761799196,
-        "images": [],
-        "videos": []
+        "updated": 1761799356,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
