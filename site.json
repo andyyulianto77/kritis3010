@@ -106,6 +106,22 @@
         "images": [],
         "videos": []
       }
+    },
+    {
+      "id": "item-e58d93b5-d7ec-4937-ab5d-866c9e00dc9d",
+      "indent": 0,
+      "location": "pages/item-e58d93b5-d7ec-4937-ab5d-866c9e00dc9d/index.html",
+      "slug": "page-1",
+      "order": 2,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1761796909,
+        "updated": 1761796909,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
