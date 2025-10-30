@@ -25,7 +25,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1761796903,
+      "updated": 1761797194,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -106,13 +106,17 @@
       "slug": "page",
       "order": 1,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Berpikir Kritis",
+      "description": "🔍 Sinta membuka tiga tab&#160;berbeda di peramban: (1) Sumber viral, (2) Situs berita resmi, (3) Akun media sosial Kemendikbud. \n\n\n\n\n",
       "metadata": {
         "created": 1761796295,
-        "updated": 1761796295,
-        "images": [],
-        "videos": []
+        "updated": 1761797194,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     },
     {
