@@ -72,22 +72,6 @@
         "images": {},
         "status": ""
       }
-    },
-    {
-      "id": "item-9d337b0c-a0f4-4ffc-bf71-0b93e73cf37c",
-      "indent": 0,
-      "location": "pages/item-9d337b0c-a0f4-4ffc-bf71-0b93e73cf37c/index.html",
-      "slug": "page",
-      "order": 1,
-      "parent": null,
-      "title": "Page",
-      "description": "",
-      "metadata": {
-        "created": 1761796295,
-        "updated": 1761796295,
-        "images": [],
-        "videos": []
-      }
     }
   ]
 }
