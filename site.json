@@ -238,6 +238,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-1420c51c-c2e4-4290-90b7-d52c4ba4be94",
+      "indent": 0,
+      "location": "pages/item-1420c51c-c2e4-4290-90b7-d52c4ba4be94/index.html",
+      "slug": "page-5",
+      "order": 6,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1761799046,
+        "updated": 1761799046,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
