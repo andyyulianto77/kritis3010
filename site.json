@@ -25,7 +25,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1761797378,
+      "updated": 1761797573,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -136,13 +136,17 @@
       "slug": "page-1",
       "order": 2,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Identifikasi kriteria",
+      "description": "📊 Sinta membandingkan pesan viral dengan pernyataan resmi. Ia mengecek tanggal dan penulis sumber.\n\n\"Apakah sumber viral ini valid dan dapat dipercaya? Buktinya lemah.\"\n\n",
       "metadata": {
         "created": 1761796909,
-        "updated": 1761796909,
-        "images": [],
-        "videos": []
+        "updated": 1761797573,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     },
     {
