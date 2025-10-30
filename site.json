@@ -222,7 +222,17 @@
         "created": 1761798931,
         "updated": 1761798931,
         "images": [],
-        "videos": []
+        "videos": [],
+        "files": [
+          {
+            "path": "/home/project/files/image_5.png",
+            "fullUrl": "//home/project/files/image_5.png",
+            "url": "files/image_5.png",
+            "type": "image/png",
+            "name": "image_5.png",
+            "size": 434005
+          }
+        ]
       }
     }
   ]
